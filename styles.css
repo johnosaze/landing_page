@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  background: whitesmoke;
+}
+div {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* font size */
+div {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  /* background: whitesmoke; */
+}
+h2 {
+  text-align: center;
+}
+ul {
+  background-blend-mode: overlay;
+  background: whitesmoke;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+p {
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-left: 2%;
+  text-align: justify;
+  font-style: italic;
+}
+h3 {
+  text-align: center;
+}
